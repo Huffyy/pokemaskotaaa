@@ -1,0 +1,60 @@
+.menu {
+    background-color: #F6CA16; 
+    color: transparent; 
+    padding: 1px; 
+}
+
+.btn-ss{
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+
+.barra {
+    width: 900px;
+}
+.registro{
+    background-color: #007bff;
+}
+
+.navbar {
+    background-color: #F6CA16 !important; 
+}
+
+.btn {
+    background-color: white; 
+    color: black; 
+    border-color: white; 
+}
+
+.btn-buscar{
+    border-color: #fff;
+    border-radius: 5px;
+}
+
+.modal-content {
+    background-color: #fff; 
+    color: black; 
+}
+
+.offcanvas-body {
+    background-color: white; 
+    color: #fff; 
+}    
+
+body {
+    background-image: url(fondo2.jpg);
+    background-attachment: fixed;   
+}
+
+.carrusel{
+    width: 1000px;
+    margin-left: 450px;
+    margin-top: 25px;
+    
+}
+
+.box{
+    
+    margin-top: 25px; 
+    margin-left: 125px;
+}
